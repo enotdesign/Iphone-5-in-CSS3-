@@ -1,0 +1,118 @@
+body{
+    background-color: #3A7C9F;
+}
+.contenido{
+    width: 275px;
+    height: 580px;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: #4BB2E4;
+    border-radius: 40px;
+    box-shadow: -40px 35px 0px #26688B;
+    position: relative;
+}
+
+.cuerpo-negro{
+    height: 570px;
+    width: 265px;
+    background-color: black;
+    border-radius: 40px;
+    margin-top: 5px;
+    margin-left: 5px;
+    position: absolute;
+    
+}
+.camara{
+    height: 2px;
+    width: 2px;
+    margin: 0 auto;
+    margin-top: 25px;
+    background-color: #00C7FF;
+    border: 2px solid #161616;
+    border-radius: 50%;
+}
+
+.bocina{
+    width: 45px;
+    height: 5px;
+    margin: auto;
+    margin-top: 15px;
+    background-color: #161616;
+    border-radius: 3px;
+}
+.pantalla{
+    width: 232px;
+    height: 411px;
+    background-color: #00C7FF;
+    margin-left: 15px;
+    margin-top: 25px;
+    border: solid #1A1816;
+    border-width: 2px;
+}
+
+.boton{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin: 14px auto;
+    border: solid #161616;
+    border-width: 1px;
+    background: linear-gradient(black, #080808);
+}
+
+.cuadrado{
+    height: 15px;
+    width: 15px;
+    margin: 0 auto;
+    margin-top: 16px;
+    border-radius: 4px;
+    border: solid #313131;
+    border-width: 2px;
+}
+
+.power{
+    width: 43px;
+    height: 5px;
+    float:right;
+    margin-top: -5px;
+    margin-right: 45px;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    background-color: #42a8d8;
+    
+}
+
+.boton-vibracion{
+    height: 25px;
+    width: 3px;
+    margin-top: 80px;
+    margin-left: -3px;
+    float: left;
+    position: absolute;
+    background-color: #42a8d8;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+}
+
+.masaudio{
+    float: left;
+    height: 40px;
+    width: 4px;
+    background-color: #42a8d8;
+    margin-left: -4px;
+    margin-top: 130px;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+}
+
+.menosaudio{
+    float: left;
+    height: 50px;
+    width: 4px;
+    background-color: #42a8d8;
+    margin-left: -4px;
+    margin-top: 186px;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+}
